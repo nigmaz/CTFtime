@@ -1,2 +1,2 @@
 # Writeup
-Challenges Prcatice, CTFtime >_
+Challenges Practice, CTFtime >_
