@@ -139,8 +139,6 @@ final1	format0  format2  format4  heap1  heap3  net1  net3  stack0  stack2  stac
 
 <https://vnhacker.blogspot.com/2006/12/shellcode-thn-chng-nhp-mn.html>
 
-<https://itandsecuritystuffs.wordpress.com/2014/03/18/understanding-buffer-overflows-attacks-part-1/>
-
 <https://www.coengoedegebure.com/buffer-overflow-attacks-explained/>
 
 <https://en.wikipedia.org/wiki/Endianness>
