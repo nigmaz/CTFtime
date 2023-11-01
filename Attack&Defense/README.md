@@ -70,17 +70,15 @@
         + `FAUST-CTF`: https://faust.cs.fau.de/ctf/
 - `Network analysis tool for Attack Defence CTF | Runs exploits, fast.`: https://github.com/OpenAttackDefenseTools
 
-- `Attack and Defense CTF Competitions`:
-  - `C4T BuT S4D`: https://github.com/C4T-BuT-S4D
-  - `FAUST-CTF`: https://faust.cs.fau.de/ctf/
 - `Video`:
   - https://archive.conference.hitb.org/hitbsecconf2021sin/capture-the-flag/
   - https://www.youtube.com/watch?v=oMDBTvehzs8
+
 - Tools management A&D CTF:
   - https://github.com/vidar-team/Cardinal
   - ...
-- `User github played a&d`:
 
+- `User github played a&d`:
   - https://github.com/tuantv89/ASCIS2022_WEB_Final/tree/main
   - https://github.com/to016/CTFs/tree/main/SVATTT
 
