@@ -63,7 +63,11 @@
 - `Overview setup`: https://cbsctf.ru/ad
 - `simple-portforwarder`: https://github.com/Q5Ca/simple-portforwarder
 - `Caronte is a tool to analyze the network flow`: https://github.com/eciavatta/caronte
-- `Platform build A&D (Viettel build)`: https://github.com/pomo-mondreganto/ForcAD
+- `Platform build A&D (Viettel build)`:
+    * https://github.com/pomo-mondreganto/ForcAD
+    * `Attack and Defense CTF Competitions`:
+        + `C4T BuT S4D`: https://github.com/C4T-BuT-S4D
+        + `FAUST-CTF`: https://faust.cs.fau.de/ctf/
 - `Network analysis tool for Attack Defence CTF | Runs exploits, fast.`: https://github.com/OpenAttackDefenseTools
 
 - `Attack and Defense CTF Competitions`:
