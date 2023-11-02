@@ -67,6 +67,7 @@
   - `Attack and Defense CTF Competitions`:
     - `C4T BuT S4D`: https://github.com/C4T-BuT-S4D
     - `FAUST-CTF`: https://faust.cs.fau.de/ctf/
+    - `CTFd Jeopardy`: https://github.com/CTFd/CTFd
 - `Network analysis tool for Attack Defence CTF | Runs exploits, fast.`: https://github.com/OpenAttackDefenseTools
 
 - `Video`:
