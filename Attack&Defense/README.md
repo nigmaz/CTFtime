@@ -40,7 +40,9 @@
 
 ### Tools:
 
-- tcpdump `tcpdump -XX -i eth0`
+- tcpdump
+   * Display hex byte: `tcpdump -XX -i eth0`.
+   * Store pcap file: `sudo tcpdump -i eth0 -w capture.pcap`.
 
 ### Kiến thức:
 
