@@ -2,25 +2,22 @@
 
 ## [1]. Cung cấp proxy của máy chủ service:
 
-- Proxy
-- Cấu hình, tính năng proxy
-- Deploy, sửa code web
-- Quản trị máy chủ
-- Tìm flag, grep
-- Mô hình mạng
+> Máy tính cá nhân -> Proxy -> Máy chủ chứa service (Bài thi).
 
-- Học ssh:
-  cài máy ảo linux, học các lệnh cơ bản, cài đặt gói, chạy ứng dụng,... bằng command line
-  Học filesystem, phân quyền trên linux
-  Dựng một trang web lên máy chủ linux, có database
-  Chạy một bài pwn lên server, dùng netcat để listen port
-  Cài đặt một http proxy lên server. Proxy listen port 80 rồi forward sang web/pwn port 8080, sau đó print data gửi qua proxy,
-  code hoặc viết rule chặn lọc, sửa data gửi qua lại.
-  Máy tính cá nhân -> Proxy -> Bài thi.
+- Proxy và cách cấu hình, các tính năng proxy.
+- Quản trị máy chủ, mô hình mạng
+- Học ssh: cài máy ảo linux, học các lệnh cơ bản, cài đặt gói, chạy ứng dụng,... bằng command line
+- Học filesystem, phân quyền trên linux
+- Dựng một trang web lên máy chủ linux, có database
+- Chạy một bài pwn lên server, dùng netcat để listen port
+- Cài đặt một http proxy lên server. Proxy listen port 80 rồi forward sang web/pwn port 8080, sau đó print data gửi qua proxy, code hoặc viết rule chặn lọc, sửa data gửi qua lại.
+- Rule
+
   - Chặn payload có chứa 1 string nào đó
   - Sửa 1 string trong payload thành string khác
   - Chặn response có string nào đó
   - Sửa string trong response thành string khác
+
 - Học firewall
   - Cấu hình iptables để:
     - Chặn IP truy cập đến 1 port
@@ -41,8 +38,8 @@
 ### Tools:
 
 - tcpdump
-   * Display hex byte: `tcpdump -XX -i eth0`.
-   * Store pcap file: `sudo tcpdump -i eth0 -w capture.pcap`.
+  - Display hex byte: `tcpdump -XX -i eth0`.
+  - Store pcap file: `sudo tcpdump -i eth0 -w capture.pcap`.
 
 ### Kiến thức:
 
@@ -66,21 +63,24 @@
 - `simple-portforwarder`: https://github.com/Q5Ca/simple-portforwarder
 - `Caronte is a tool to analyze the network flow`: https://github.com/eciavatta/caronte
 - `Platform build A&D (Viettel build)`:
-    * https://github.com/pomo-mondreganto/ForcAD
-    * `Attack and Defense CTF Competitions`:
-        + `C4T BuT S4D`: https://github.com/C4T-BuT-S4D
-        + `FAUST-CTF`: https://faust.cs.fau.de/ctf/
+  - https://github.com/pomo-mondreganto/ForcAD
+  - `Attack and Defense CTF Competitions`:
+    - `C4T BuT S4D`: https://github.com/C4T-BuT-S4D
+    - `FAUST-CTF`: https://faust.cs.fau.de/ctf/
 - `Network analysis tool for Attack Defence CTF | Runs exploits, fast.`: https://github.com/OpenAttackDefenseTools
 
 - `Video`:
+
   - https://archive.conference.hitb.org/hitbsecconf2021sin/capture-the-flag/
   - https://www.youtube.com/watch?v=oMDBTvehzs8
 
 - Tools management A&D CTF:
+
   - https://github.com/vidar-team/Cardinal
   - ...
 
 - `User github played a&d`:
+
   - https://github.com/tuantv89/ASCIS2022_WEB_Final/tree/main
   - https://github.com/to016/CTFs/tree/main/SVATTT
 
