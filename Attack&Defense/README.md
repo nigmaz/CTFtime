@@ -52,6 +52,7 @@
 - iptables: sudo iptables -L
 
   - https://www.youtube.com/playlist?list=PLvadQtO-ihXt5k8XME2iv0cKpKhcYqe7i
+  - https://github.com/kienle1819/kienletv/tree/main/iptables
 
 - Code auto-tools lấy flag (run script attack) và auto-tools submite flag (send flag+token-team)
 
