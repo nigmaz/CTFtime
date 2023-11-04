@@ -39,7 +39,9 @@
 
 - tcpdump
   - Display hex byte: `tcpdump -XX -i eth0`.
-  - Store pcap file: `sudo tcpdump -i eth0 -w capture.pcap`.
+  - Store pcap file:
+    - `sudo tcpdump -i eth0 -w capture.pcap`.
+    - `tcpdump -i eth0 -w cap.pcap tcp port 3139`.
 
 ### Kiến thức:
 
