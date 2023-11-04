@@ -55,7 +55,7 @@
   - https://github.com/kienle1819/kienletv/tree/main/iptables
 
 - Code auto-tools lấy flag (run script attack) và auto-tools submite flag (send flag+token-team)
-
+  - `Crontab`: https://viblo.asia/p/cron-job-la-gi-huong-dan-su-dung-cron-tab-E375zLo2ZGW
 - Training nghiệp vụ blue, xin tools customize, học iptables
 
 ### link-github:
