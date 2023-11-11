@@ -87,8 +87,10 @@
 - `User github played a&d`:
 
   - https://github.com/tuantv89/ASCIS2022_WEB_Final/tree/main
-  - https://github.com/to016/CTFs/tree/main/SVATTT
+  - https://github.com/to016/CTFs/tree/main/SVATTT/2022/Final/V-Store
 
 - `Kể chuyện đi thi`:
   - https://q5ca.github.io/ctf/SVATTT2019-final-ke-chuyen-di-thi-va-wu-hackemall-12-01-2019.html
+  - https://shfsec.com/chung-toi-da-vo-dich-df-cyber-defense-2023-nhu-the-nao-attack-defense
+  - https://hackmd.io/@mochinishimiya/Sypvli8rj
   - ...
