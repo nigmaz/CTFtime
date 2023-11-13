@@ -82,6 +82,7 @@
 - Tools management A&D CTF:
 
   - https://github.com/vidar-team/Cardinal
+  - https://viblo.asia/p/phat-hien-xam-nhap-voi-splunk-OeVKB8MdlkW
   - ...
 
 - `User github played a&d`:
