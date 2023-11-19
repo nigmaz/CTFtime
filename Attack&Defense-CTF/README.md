@@ -54,6 +54,7 @@
   - write rule use wireshark filter byte character in payload attack (viết rule chặn payload tấn công sử dụng modsecurity (viết rule đơn giản trên 1 server linux)).
 
 - iptables: sudo iptables -L
+  - iptables -t nat -L
   - nếu dung iptables -L mà ko tắt được rule thì phải dùng câu lệnh nào
   - https://www.youtube.com/playlist?list=PLvadQtO-ihXt5k8XME2iv0cKpKhcYqe7i
   - https://github.com/kienle1819/kienletv/tree/main/iptables
@@ -85,6 +86,7 @@
 
   - https://github.com/vidar-team/Cardinal
   - https://viblo.asia/p/phat-hien-xam-nhap-voi-splunk-OeVKB8MdlkW
+  - proxy Golang push log lên splunk 
   - ...
 
 - `User github played a&d`:
