@@ -55,6 +55,7 @@
 
 - iptables: sudo iptables -L
   - `iptables -t nat -L`
+  - `iptables -t nat -F`
   - nếu dung iptables -L mà ko tắt được rule thì phải dùng câu lệnh nào
   - https://www.youtube.com/playlist?list=PLvadQtO-ihXt5k8XME2iv0cKpKhcYqe7i
   - https://github.com/kienle1819/kienletv/tree/main/iptables
