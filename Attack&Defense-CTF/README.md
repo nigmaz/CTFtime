@@ -59,6 +59,10 @@
   - nếu dung iptables -L mà ko tắt được rule thì phải dùng câu lệnh nào
   - https://www.youtube.com/playlist?list=PLvadQtO-ihXt5k8XME2iv0cKpKhcYqe7i
   - https://github.com/kienle1819/kienletv/tree/main/iptables
+  - Video:
+    - https://www.youtube.com/watch?v=jai2qp1lgxc
+    - https://www.youtube.com/watch?v=zPV0flaVzaM
+    - https://www.youtube.com/watch?v=kLiAKcaSShs&t=22s
 
 - Code auto-tools lấy flag (run script attack) và auto-tools submite flag (send flag+token-team)
   - `Crontab`: https://viblo.asia/p/cron-job-la-gi-huong-dan-su-dung-cron-tab-E375zLo2ZGW
