@@ -91,7 +91,8 @@
 
   - https://github.com/vidar-team/Cardinal
   - https://viblo.asia/p/phat-hien-xam-nhap-voi-splunk-OeVKB8MdlkW
-  - proxy Golang push log lên splunk 
+  - proxy Golang push log lên splunk
+    - https://github.com/ZachtimusPrime/Go-Splunk-HTTP
   - ...
 
 - `User github played a&d`:
