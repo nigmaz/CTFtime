@@ -106,4 +106,5 @@
   - https://q5ca.github.io/ctf/SVATTT2019-final-ke-chuyen-di-thi-va-wu-hackemall-12-01-2019.html
   - https://shfsec.com/chung-toi-da-vo-dich-df-cyber-defense-2023-nhu-the-nao-attack-defense
   - https://hackmd.io/@mochinishimiya/Sypvli8rj
+  - https://spid3r1337.github.io/p/cyber-sea-game-2023-recap/
   - ...
