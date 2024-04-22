@@ -1,8 +1,8 @@
-# Flare-On-Challenges
-
-- https://flare-on.com/
+# Flare-On
 
 > {flag}@flare-on.com
+
+- https://flare-on.com/
 
 - https://github.com/fareedfauzi/Flare-On-Challenges
 - https://github.com/levanvn/FLareOn10Note
